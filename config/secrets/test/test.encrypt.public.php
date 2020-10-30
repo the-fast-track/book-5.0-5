@@ -1,0 +1,3 @@
+<?php // test.encrypt.public on Fri, 30 Oct 2020 15:55:20 +0100
+
+return "CYP\x10\xE6\x92\xE5\x86\xB5\x99\x10o\xCA\xCD2CJ\x18SewJ\xD0B\xD0\x04\xE2\x91PdX\x19";
